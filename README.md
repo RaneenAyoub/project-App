@@ -1,5 +1,5 @@
 # project-App
-# 🍽️ Restaurant App | تطبيق المطعم
+#  Restaurant App | تطبيق المطعم
 
 A mobile restaurant app developed using **React Native (Expo)** and **JavaScript**.  
 تطبيق موبايل لعرض أصناف الطعام، تم تطويره باستخدام **React Native وExpo**.
@@ -43,8 +43,8 @@ A mobile restaurant app developed using **React Native (Expo)** and **JavaScript
 ## 🛠️ How to Run | كيفية تشغيل المشروع
 
 ```bash
-git clone https://github.com/YourUsername/your-repo-name
-cd your-repo-name
+git clone [https://github.com/RaneenAyoub/project-App]
+cd project-App
 npm install
 npx expo start
 
